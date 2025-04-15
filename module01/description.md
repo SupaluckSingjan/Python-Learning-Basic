@@ -5,3 +5,8 @@
 ### Example 
 * name = "Supaluck"
 * velocity, time = 20,5
+
+### การ print ตัวแปรสามารถใช้ดังนี้ 
+* print(name)
+* print("ความเร็วเป็น ", velocity)
+ 
