@@ -6,7 +6,10 @@
 * name = "Supaluck"
 * velocity, time = 20,5
 
-### การ print ตัวแปรสามารถใช้ดังนี้ 
-* print(name)
-* print("ความเร็วเป็น ", velocity)
+### How to print variable.
+``` print(name) ```
+``` print("This vilocity is ", velocity) ```
+ 
+### How to check type of variable.
+``` print(type(name)) ```
  
