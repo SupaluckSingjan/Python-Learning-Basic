@@ -12,4 +12,8 @@
  
 ### How to check type of variable.
 ``` print(type(name)) ```
+
+## Input 
+Input is mean that get input from keyboard.
+* Variable = input(data)
  
